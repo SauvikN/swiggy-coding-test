@@ -21,11 +21,11 @@ Thank you!
 ![Screenshot2](screenshots/screenshot2.png)
 ## Author
 
-- [Mrityunjay Sarkar](https://github.com/MrityuNJ45)
+- [Sauvik Neogi](https://github.com/SauvikN)
 
 
 
 ## Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/mrityunjay-sarkar45/)
-- Email : mrityunjaysorcar@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/sauvik-neogi/)
+- Email : sauvikneogi@gmail.com
